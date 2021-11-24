@@ -13,8 +13,6 @@ public class SortingAlgorithm : MonoBehaviour
     {
         CreateArray();
 
-        //PrintArray();
-
         SortArray();
 
         PrintArray();
